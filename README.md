@@ -5,7 +5,7 @@
 ## Built With HTML, CSS, and javaScript.
 
 
-## Website link here and screenshot
+## Deployed link https://emmagollan.github.io/RandomPasswordGenerator/
 
 
 ## Made with ❤️ by Emma Gollan.
